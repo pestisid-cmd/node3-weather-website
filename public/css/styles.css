@@ -11,7 +11,7 @@ body {
 }
 
 .main{
-    flex-grow: 0.6;
+    flex-grow: 0.9;
 }
 
 footer{
@@ -53,4 +53,9 @@ button{
     background: #888888;
     color: white;
     padding: 8px;
+}
+
+.link{
+    text-decoration: none;
+    color :#505050;
 }
